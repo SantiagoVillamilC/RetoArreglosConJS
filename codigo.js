@@ -39,7 +39,7 @@ function mayorArray(numerosEnteros) {
           console.log("Elemento del array: " + numerosEnteros[j]);
           j++;
         }
-        // Para contar la cantidad de impares utilizamos un ciclo do-while y el operador %s
+        // Para contar la cantidad de impares utilizamos un ciclo do-while y el operador %
         let impares = 0;
         let k = 0;
         do {
